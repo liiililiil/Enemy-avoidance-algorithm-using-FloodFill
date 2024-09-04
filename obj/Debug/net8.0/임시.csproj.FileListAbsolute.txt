@@ -1,0 +1,14 @@
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.AssemblyInfoInputs.cache
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.AssemblyInfo.cs
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.csproj.CoreCompileInputs.cache
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\bin\Debug\net8.0\임시.exe
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\bin\Debug\net8.0\임시.deps.json
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\bin\Debug\net8.0\임시.runtimeconfig.json
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\bin\Debug\net8.0\임시.dll
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\bin\Debug\net8.0\임시.pdb
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.dll
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\refint\임시.dll
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.pdb
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\임시.genruntimeconfig.cache
+C:\Users\최승하\Desktop\아카이브\문제풀이\임시\obj\Debug\net8.0\ref\임시.dll
