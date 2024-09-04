@@ -107,7 +107,7 @@ void enemy(int i, int j){
     add(i,j);
 }
 
-void set(int x,int y){ // floodflow 
+void set(int x,int y){ // floodfill
     for(int i = 0; i < arr.GetLength(0); i++){
         for(int j = 0; j < arr.GetLength(1); j++){
             if(arr[i,j] <=-1) continue;
