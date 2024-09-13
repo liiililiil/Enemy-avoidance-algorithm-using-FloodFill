@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\최승하\\Desktop\\아카이브\\문제풀이\\임시\\임시.csproj",
+      "projectUniqueName": "D:\\problems\\임시\\임시.csproj",
       "projectName": "임시",
-      "projectPath": "C:\\Users\\최승하\\Desktop\\아카이브\\문제풀이\\임시\\임시.csproj",
+      "projectPath": "D:\\problems\\임시\\임시.csproj",
       "packagesPath": "C:\\Users\\최승하\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\최승하\\Desktop\\아카이브\\문제풀이\\임시\\obj\\",
+      "outputPath": "D:\\problems\\임시\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\최승하\\AppData\\Roaming\\NuGet\\NuGet.Config",

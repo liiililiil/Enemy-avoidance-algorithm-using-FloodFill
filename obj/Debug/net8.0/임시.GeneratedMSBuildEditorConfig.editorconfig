@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 임시
-build_property.ProjectDir = c:\Users\최승하\Desktop\아카이브\문제풀이\임시\
+build_property.ProjectDir = D:\problems\임시\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
